@@ -1,0 +1,10 @@
+C:\Users\USER\Documents\C#Projeleri\Proje65_KaprekarSabiti\bin\Debug\Proje65_KaprekarSabiti.exe.config
+C:\Users\USER\Documents\C#Projeleri\Proje65_KaprekarSabiti\bin\Debug\Proje65_KaprekarSabiti.exe
+C:\Users\USER\Documents\C#Projeleri\Proje65_KaprekarSabiti\bin\Debug\Proje65_KaprekarSabiti.pdb
+C:\Users\USER\Documents\C#Projeleri\Proje65_KaprekarSabiti\obj\Debug\Proje65_KaprekarSabiti.csprojAssemblyReference.cache
+C:\Users\USER\Documents\C#Projeleri\Proje65_KaprekarSabiti\obj\Debug\Proje65_KaprekarSabiti.Form1.resources
+C:\Users\USER\Documents\C#Projeleri\Proje65_KaprekarSabiti\obj\Debug\Proje65_KaprekarSabiti.Properties.Resources.resources
+C:\Users\USER\Documents\C#Projeleri\Proje65_KaprekarSabiti\obj\Debug\Proje65_KaprekarSabiti.csproj.GenerateResource.cache
+C:\Users\USER\Documents\C#Projeleri\Proje65_KaprekarSabiti\obj\Debug\Proje65_KaprekarSabiti.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\C#Projeleri\Proje65_KaprekarSabiti\obj\Debug\Proje65_KaprekarSabiti.exe
+C:\Users\USER\Documents\C#Projeleri\Proje65_KaprekarSabiti\obj\Debug\Proje65_KaprekarSabiti.pdb
